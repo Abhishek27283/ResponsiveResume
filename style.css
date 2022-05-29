@@ -1,0 +1,102 @@
+*{
+    background-color: rgb(229, 239, 237);
+    margin: 0px;
+    padding: 0px;
+    
+}
+header{
+    background-color: aquamarine;
+   
+    text-align: center;
+    /* margin: 25px; */
+    /* padding: 15px; */
+    font-size: large;
+}
+/* i{
+    background-color: rgb(211, 100, 100);
+    color: #a71ea7;
+    text-align: right;
+} */
+p,a{
+text-align: right;
+background-color:rgba(0, 0, 0, 0.156);
+
+}
+#ct{
+    display: flexbox;
+    text-align:left;
+    background-color: rgba(0, 0, 0, 0.156);
+    color: rgb(167, 30, 167);
+    
+}
+
+.ab{
+    background-color:aquamarine;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+    
+}
+.lnkd{
+    background-color: rgba(0, 0, 0, 0.156);
+}
+.email{
+    background-color: rgba(0, 0, 0, 0.156);
+}
+.name{
+    background-color: aquamarine;
+    font-weight: 800;
+    padding-left: 30%;
+    padding-top: 3%;
+    font-size: x-large;
+}
+.dc{
+
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.156);
+    color: rgb(167, 30, 167);
+}
+.ic{display: flex;
+    background-color: aquamarine;
+
+}
+.edu{
+    font-size: x-large;
+}
+table, th, td {
+    background-color: rgba(172, 214, 235, 0.34);
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: aqua;
+
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:black;
+
+  }
+  h3{padding-left: 1%;
+      color: rgba(0, 32, 107, 0.901);
+  }
+  li{
+      color: darkmagenta;
+      padding-left: 1%;
+  }
+  .skill{
+      
+      color: darkmagenta;
+      
+
+      margin-bottom: 20px;
+  }
+  strong{
+      padding-left: 1%;
+  }
+  
